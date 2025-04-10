@@ -1,5 +1,6 @@
 ligne 1
 ligne 2 modifiée en local
 ligne 3
-ligne 4 créée depuis github
+ligne 4 créée depuis github puis modifiée
+ligne 5 créee depuis gitlab
 ligne 5 créée en local
